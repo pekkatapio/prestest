@@ -35,10 +35,10 @@ Käyttöönotossa on kuitenkin syytä huomioida Certiportin [määritykset](http
 
 Jotta voit pystyttää testikeskuksen, niin tarvitset siihen seuraavat palikat:
 
-  - [ ] pöytäkone tai -koneet, voi olla myös kannettava (huomioi [laitteistovaatimukset](https://certiport.pearsonvue.com/Support/Technical-requirements.aspx))
-  - [ ] vähintään Organization Member -tason oikeudet Certiport-palveluun
-  - [ ] Windowsin asennusmedia (asennustikun voi luoda tällä [skriptillä](https://github.com/hayo-labra/Create-WindowsUSBInstall))
-  - [ ] Windowsin pääkäyttäjän tunnukset (tärkeää silloin, kun saat koneen esiasennettuna)
+  - pöytäkone tai -koneet, voi olla myös kannettava (huomioi [laitteistovaatimukset](https://certiport.pearsonvue.com/Support/Technical-requirements.aspx))
+  - vähintään Organization Member -tason oikeudet Certiport-palveluun
+  - Windowsin asennusmedia (asennustikun voi luoda tällä [skriptillä](https://github.com/hayo-labra/Create-WindowsUSBInstall))
+  - Windowsin pääkäyttäjän tunnukset (tärkeää silloin, kun saat koneen esiasennettuna)
 
 ---
 
@@ -89,7 +89,7 @@ Jos olet tehnyt edellä käsitellyt etukäteisvalmistelut huolella, niin Compass
 
 Checklist ennen jokaista testikertaa:
 
- - [ ] kertaa testivalvojan [pikaohje](https://certiport.pearsonvue.com/Support/PDFs/QRG-Proctoring)
- - [ ] käynnistä testikoneet ja Compass hyvissä ajoin, jotta päivitykset tulee ladattua
- - [ ] jos otat vastaan MOS-testjä, niin tarkista, että ko. ohjelman tarkistustesti toimii
+ - kertaa testivalvojan [pikaohje](https://certiport.pearsonvue.com/Support/PDFs/QRG-Proctoring)
+ - käynnistä testikoneet ja Compass hyvissä ajoin, jotta päivitykset tulee ladattua
+ - jos otat vastaan MOS-testjä, niin tarkista, että ko. ohjelman tarkistustesti toimii
 
