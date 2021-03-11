@@ -35,7 +35,7 @@ Käyttöönotossa on kuitenkin syytä huomioida Certiportin [määritykset](http
 
 Jotta voit pystyttää testikeskuksen, niin tarvitset siihen seuraavat palikat:
 
-  - pöytäkone tai -koneet, voi olla myös kannettava (huomioi laitteistovaatimukset)
+  - pöytäkone tai -koneet, voi olla myös kannettava (huomioi [laitteistovaatimukset](https://certiport.pearsonvue.com/Support/Technical-requirements.aspx))
   - vähintään Organization Member -tason oikeudet Certiport-palveluun
   - Windowsin asennusmedia (asennustikun voi luoda tällä [skriptillä](https://github.com/hayo-labra/Create-WindowsUSBInstall))
-  - Windowsin pääkäyttäjän tunnukset (oleellinen silloin, kun saat koneen esiasennettuna)
+  - Windowsin pääkäyttäjän tunnukset (tärkeää silloin, kun saat koneen esiasennettuna)
