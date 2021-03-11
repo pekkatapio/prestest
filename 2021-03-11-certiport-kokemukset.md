@@ -35,7 +35,7 @@ Käyttöönotossa on kuitenkin syytä huomioida Certiportin [määritykset](http
 
 HAYO:n labraluokkaan asennettiin viiden työaseman kokonaisuus, joista yksi toimi palvelimena ja muut neljä testikoneina. 
 
-Testaus onnistui niin, että useampi kokelas pystyi testin suorittamaan samaan aikaan.
+Testaus onnistui niin, että useampi kokelas pystyi suorittamaan testiä samaan aikaan.
 
 Tämän jälkeen on yksi opiskelija kokeillut testin suorittamista, muita opiskelijoita on tulossa kokeilemaan myöhemmin keväällä.
 
