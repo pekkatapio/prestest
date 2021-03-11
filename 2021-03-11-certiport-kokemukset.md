@@ -8,7 +8,7 @@ pystyttäminen ja kokemukset
 
 ---
 
-# Mikä on testikeskus?
+# Testikeskus?
 
 Certiport Authorized Test Center (CATC) on testikeskus, jolle on annettu valtuudet ottaa vastaan Certiportin testejä.
 
@@ -20,3 +20,9 @@ Kuntayhtymällä on sopimus, joka mahdollistaa seuraavien testien vastaanottamis
  - Microsoft Certified Educator
  
 ---
+
+# Yksi, kaksi, ... siis kuinka monta?
+
+Testikeskus on varsin laaja käsite.
+
+Organisaatiossa voi olla useampia "testikeskuksia", jotka voivat koostua useammasta työasemasta tai yksittäisestä kannettavasta.
