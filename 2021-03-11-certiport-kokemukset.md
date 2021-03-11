@@ -75,3 +75,15 @@ Office-pakettia ei tarvitse aktivoida. Jokainen Office ohjelma tulee kuitenkin a
 
 # Compass
 
+Jos olet tehnyt edellä käsitellyt etukäteisvalmistelut huolella, niin Compass-sovelluksen asennus ja määrittely on hyvin suoraviivainen toimitus.
+
+ 1. Lataa ja asenna Compass-sovellus.
+ 2. Kirjaudu sisään Certiport-tunnuksillasi.
+ 3. Määrittele seuraavat asetukset:
+     - serveriksi Production server,
+     - ID:ksi se mitä on tarjolla,
+     - kieleksi English,
+     - Admin credentials -kohtaan koneen pääkäyttäjän tunnukset,
+     - lan settings riippuu siitä, onko testikone yksittäinen kannettava, palvelin vai asiakas,
+     - päivitystaajuudeksi Daily ja
+     - proxy määrittelemättä.
