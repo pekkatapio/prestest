@@ -44,4 +44,12 @@ Jotta voit pystyttää testikeskuksen, niin tarvitset siihen seuraavat palikat:
 
 # Windowsin asennus
 
-MOS-testit ovat tarkkoja koneen kieliasetuksista. Lähtökohtaisesti käyttöjärjestelmä ja siihen asennetut ohjelmat tulee olla samalla kielellä kuin suoritettava testi eli käytännössä *englanniksi*.
+MOS-testit ovat tarkkoja koneen kieliasetuksista. Lähtökohtaisesti käyttöjärjestelmä ja siihen asennetut ohjelmat tulee olla samalla kielellä kuin suoritettava testi eli käytännössä **englanniksi**.
+
+Näppäimistöasettelun ja aikavyöhykkeen voit määritellä suomalaisiksi, määrittele muut poikkeuksetta English (United States).
+
+---
+
+# Windowsin määrittely
+
+
