@@ -26,3 +26,5 @@ Kuntayhtymällä on sopimus, joka mahdollistaa seuraavien testien vastaanottamis
 Testikeskus on varsin laaja käsite.
 
 Organisaatiossa voi olla useampia "testikeskuksia", jotka voivat koostua useammasta työasemasta tai yksittäisestä kannettavasta.
+
+Käyttöönotossa on kuitenkin syytä huomioida Certiportin [määritykset](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Administration) tilaan, jossa testit suoritetaan.
