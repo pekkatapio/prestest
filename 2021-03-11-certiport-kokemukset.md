@@ -67,4 +67,11 @@ Lisäksi koneessa tulee olla seuraavat asennettuna:
 
 Office tulee myös asentaa englannin kielisenä versiona.
 
-Lisäksi Officen versio tulee lukita tiettyyn, Compassin testien kanssa yhteensopivaan versioon. Tämä tapahtuu [tässä dokumentissa](https://certiport.pearsonvue.com/Support/PDFs/MOS-365-Versioning-Three.pdf) luetelluilla olevilla komentorivikomennoilla.
+Lisäksi Officen versio tulee lukita tiettyyn, Compassin testien kanssa yhteensopivaan versioon. Tämä tapahtuu [tässä dokumentissa](https://certiport.pearsonvue.com/Support/PDFs/MOS-365-Versioning-Three.pdf) olevilla komentorivikomennoilla.
+
+Office-pakettia ei tarvitse aktivoida. Jokainen Office ohjelma tulee kuitenkin avata niin pitkälle, että sovelluksessa on auki tyhjä dokumentti tai työkirja.
+
+---
+
+# Compass
+
