@@ -39,3 +39,9 @@ Jotta voit pystyttää testikeskuksen, niin tarvitset siihen seuraavat palikat:
   - vähintään Organization Member -tason oikeudet Certiport-palveluun
   - Windowsin asennusmedia (asennustikun voi luoda tällä [skriptillä](https://github.com/hayo-labra/Create-WindowsUSBInstall))
   - Windowsin pääkäyttäjän tunnukset (tärkeää silloin, kun saat koneen esiasennettuna)
+
+---
+
+# Windowsin asennus
+
+MOS-testit ovat tarkkoja koneen kieliasetuksista. Lähtökohtaisesti käyttöjärjestelmä ja siihen asennetut ohjelmat tulee olla samalla kielellä kuin suoritettava testi eli käytännössä *englanniksi*.
