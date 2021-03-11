@@ -4,7 +4,7 @@ class: center, middle, inverse
 
 pystyttäminen ja kokemukset
 
-.footnote[Go directly to [project site](https://github.com/gnab/remark)]
+.footnote[Tästä pääset suoraan [ohjeisiin](https://github.com/hayo-labra/certiport-testikeskus)]
 
 ---
 
