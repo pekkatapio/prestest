@@ -60,3 +60,11 @@ Lisäksi koneessa tulee olla seuraavat asennettuna:
 
  - Adobe Acrobat Reader
  - tulostin (Microsoft XPS Document Printer riittää)
+
+---
+
+# Office 365 Apps
+
+Office tulee myös asentaa englannin kielisenä versiona.
+
+Lisäksi Officen versio tulee lukita tiettyyn, Compassin testien kanssa yhteensopivaan versioon. Tämä tapahtuu [tässä dokumentissa](https://certiport.pearsonvue.com/Support/PDFs/MOS-365-Versioning-Three.pdf) luetelluilla olevilla komentorivikomennoilla.
