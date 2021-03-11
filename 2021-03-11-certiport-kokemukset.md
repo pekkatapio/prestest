@@ -50,6 +50,14 @@ Näppäimistöasettelun ja aikavyöhykkeen voit määritellä suomalaisiksi, mä
 
 ---
 
-# Windowsin määrittely
+# Windowsin muut asetukset
+
+Nimeä kone järkevästi, koska se näkyy myös testien suorituslistoissa.
+
+Koneen verkkoasetukset voi määritellä joko DHCP:llä tai staattisina, Compass toimii kummallakin. 
+
+Lisäksi koneessa tulee olla seuraavat asennettuna:
 
 
+ - Adobe Acrobat Reader
+ - tulostin (Microsoft XPS Document Printer riittää)
