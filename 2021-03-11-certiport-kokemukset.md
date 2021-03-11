@@ -46,7 +46,7 @@ Jotta voit pystyttää testikeskuksen, niin tarvitset siihen seuraavat palikat:
 
 MOS-testit ovat tarkkoja koneen kieliasetuksista. Lähtökohtaisesti käyttöjärjestelmä ja siihen asennetut ohjelmat tulee olla samalla kielellä kuin suoritettava testi eli käytännössä **englanniksi**.
 
-Näppäimistöasettelun ja aikavyöhykkeen voit määritellä suomalaisiksi, määrittele muut poikkeuksetta English (United States).
+Näppäimistöasettelun ja aikavyöhykkeen voit määritellä suomalaisiksi, määrittele muut poikkeuksetta asetuksella English (United States) tai United States.
 
 ---
 
