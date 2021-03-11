@@ -45,7 +45,7 @@ Tämän jälkeen on yksi opiskelija kokeillut testin suorittamista, muita opiske
 
 Vaikka testit ovat perustason testejä, ovat ne siitä huolimatta todella vaativia.
 
-Materiaalia testien valmistautumiseen on vaihtelevasti. Osasta on tarjolla PDF-muotoinen oppikirja, toisista ei.
+Materiaalia testiin valmistautumiseen on vaihtelevasti. Osasta on tarjolla PDF-muotoinen oppikirja, toisista ei.
 
 Itse olen jakanut materiaalia [Moodlen](https://moodle.sasky.fi/course/view.php?id=5967) kautta.
 
