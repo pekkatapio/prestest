@@ -2,7 +2,7 @@ class: center, middle, inverse
 
 # Certiport-testikeskus
 
-pystyttäminen ja kokemukset
+kokemukset ja pystyttäminen 
 
 .footnote[Tästä pääset suoraan [ohjeisiin](https://github.com/hayo-labra/certiport-testikeskus)]
 
@@ -28,6 +28,26 @@ Testikeskus on varsin laaja käsite.
 Organisaatiossa voi olla useampia "testikeskuksia", jotka voivat koostua useammasta työasemasta tai yksittäisestä, mukana kulkevasta kannettavasta.
 
 Käyttöönotossa on kuitenkin syytä huomioida Certiportin [määritykset](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Administration) tilaan, jossa testit suoritetaan.
+
+---
+
+# HAYO:n testiympäristö
+
+HAYO:n labraluokkaan asennettiin viiden työaseman kokonaisuus, joista yksi toimi palvelimena ja muut neljä testikoneina. 
+
+Testaus onnistui niin, että useampi kokelas pystyi testin suorittamaan samaan aikaan.
+
+Tämän jälkeen on yksi opiskelija kokeillut testin suorittamista, muita opiskelijoita on tulossa kokeilemaan myöhemmin keväällä.
+
+---
+
+# Kokemukset
+
+Vaikka testit ovat perustason testejä, ovat ne siitä huolimatta todella vaativia.
+
+Materiaalia testien valmistautumiseen on vaihtelevasti. Osasta on tarjolla PDF-muotoinen oppikirja, toisista ei.
+
+Itse olen jakanut materiaalia [Moodlen](https://moodle.sasky.fi/course/view.php?id=5967) kautta.
 
 ---
 
@@ -89,7 +109,9 @@ Jos olet tehnyt edellä käsitellyt etukäteisvalmistelut huolella, niin Compass
 
 Checklist ennen jokaista testikertaa:
 
- - kertaa testivalvojan [pikaohje](https://certiport.pearsonvue.com/Support/PDFs/QRG-Proctoring)
- - käynnistä testikoneet ja Compass hyvissä ajoin, jotta päivitykset tulee ladattua
- - jos otat vastaan MOS-testjä, niin tarkista, että ko. ohjelman tarkistustesti toimii
+ - Kertaa testivalvojan [pikaohje](https://certiport.pearsonvue.com/Support/PDFs/QRG-Proctoring).
+ - Käynnistä testikoneet ja Compass hyvissä ajoin, jotta päivitykset tulee ladattua. Huom! Käynnistä Compass-sovellus itse!
+ - Jos otat vastaan MOS-testejä, niin tarkista, että ko. ohjelman tarkistustesti toimii.
+
+
 
