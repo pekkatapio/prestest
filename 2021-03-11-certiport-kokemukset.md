@@ -1,8 +1,8 @@
 class: center, middle, inverse
 
-# Certiport
+# Certiport-testikeskus
 
-Testikeskuksen pystyttäminen ja kokemukset
+pystyttäminen ja kokemukset
 
 .footnote[Go directly to [project site](https://github.com/gnab/remark)]
 
