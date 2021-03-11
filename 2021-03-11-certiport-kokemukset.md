@@ -6,6 +6,8 @@ kokemukset ja pystyttäminen
 
 .footnote[Tästä pääset suoraan [ohjeisiin](https://github.com/hayo-labra/certiport-testikeskus)]
 
+.author[Pekka Tapio Aalto]
+
 ---
 
 # Testikeskus?
